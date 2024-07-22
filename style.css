@@ -1,0 +1,30 @@
+body {
+    font-style: italic;
+    background-color: white;
+}
+
+ /* .head {
+    max-width: 400px;
+} */
+
+  h1 {
+    color: darkred;
+}
+.first {
+  background-color: aliceblue;
+  border-radius: 5px;
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.108); */
+   float: left;
+   color: darkred;
+   font-size: 20px;
+   width: 400px;
+   height: 400px;
+}
+  img{
+    width: 50%;
+    height: 40%;
+    border-radius:5px ;
+
+  }
+ 
+
